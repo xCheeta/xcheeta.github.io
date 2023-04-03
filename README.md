@@ -5,8 +5,17 @@
 #04/03/2023
 #04/01/2023
 
+
+
+
+
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 HEX EXAMPLE blue color:    `#0969DA`
+
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 # A first-level heading
 ## A second-level heading
 ### A third-level heading

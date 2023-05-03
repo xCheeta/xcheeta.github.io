@@ -1,6 +1,6 @@
 # xcheeta.github.io
 
-#---UPDATES(MM/DD/YYYY)---
+## ---UPDATES(MM/DD/YYYY)---
 
 #04/01/2023  - 
 
@@ -12,6 +12,24 @@
 [//]: # "Original Picture code"
 [//]: # "![My Image](GitHubREADMEimages/960x960KirbyKu.png)"
 <img src="GitHubREADMEimages/960x960KirbyKu.png" width="400" height="400">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax

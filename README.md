@@ -6,9 +6,9 @@
 
 #04/03/2023  - Visualizer
 
-#05/03/2023  - Double Click Tile Pickup (double click a kirby to begin dragging the tile. Single click to release (drop) the tile where you would like
+#05/03/2023  - Double Click Tile Pickup (double click a kirby to begin dragging the tile. Single click to release (drop) the tile where you would like)
 
-![My Image](GitHubREADMEimages/960x960KirbyKu.png)
+![My Image](GitHubREADMEimages/960x960KirbyKu.png)width=50% height=50%
 
 
 

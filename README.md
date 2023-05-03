@@ -8,8 +8,8 @@
 
 #05/03/2023  - Double Click Tile Pickup (double click a kirby to begin dragging the tile. Single click to release (drop) the tile where you would like)
 
-![My Image](GitHubREADMEimages/960x960KirbyKu.png)width=50% height=50%
-
+![My Image](GitHubREADMEimages/960x960KirbyKu.png)
+<img src="GitHubREADMEimages/960x960KirbyKu.png" width="100" height="100">
 
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax

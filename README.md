@@ -2,32 +2,45 @@
 
 ### ---UPDATES(MM/DD/YYYY)---
 
-#04/01/2023  - Win Screen
+04/01/2023  - Win Screen
 
-#04/03/2023  - Visualizer
+04/03/2023  - Visualizer
 
-#05/03/2023  - Double Click Tile Pickup (double click a kirby to begin dragging the tile. Single click to release (drop) the tile where you would like)
+05/03/2023  - Double Click Tile Pickup (double click a kirby to begin dragging the tile. Single click to release (drop) the tile where you would like)
+
+05/04/2023  - Improved Double Click Mechanic
 
 [//]: # "Comment"
 [//]: # "Original Picture code"
 [//]: # "![My Image](GitHubREADMEimages/960x960KirbyKu.png)"
-<img src="GitHubREADMEimages/960x960KirbyKu.png" width="400" height="400">
+<img src="GitHubREADMEimages/960x960KirbyKu.png" width="600" height="600">
 
 
 
 
 
 <br>
-
-
 <br>
-
 <br>
-
-
-
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
